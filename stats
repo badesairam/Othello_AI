@@ -1,0 +1,52 @@
+depth: 1
+coins parity heuristic as player 1:
+1 33 31
+2 45 19
+1 44 20
+stability heuristic as player 1:
+1 54 10
+2 36 28
+1 45 19
+corner heuristic as player 1:
+2 44 20
+1 38 26
+1 48 16
+mobility heuristic as player 1:
+2 57 7
+2 44 20
+2 35 29
+depth: 2
+coins parity heuristic as player 1:
+1 44 20
+1 39 25
+1 41 23
+stability heuristic as player 1:
+1 58 1
+2 50 14
+1 42 22
+corner heuristic as player 1:
+1 47 17
+1 38 26
+1 41 23
+mobility heuristic as player 1:
+1 34 30
+2 49 15
+2 50 14
+depth: 3
+coins parity heuristic as player 1:
+2 38 26
+1 43 21
+1 44 20
+stability heuristic as player 1:
+1 50 14
+2 33 31
+1 52 12
+corner heuristic as player 1:
+1 46 18
+1 35 29
+1 43 21
+mobility heuristic as player 1:
+1 40 24
+2 50 14
+2 54 10
+depth: 4
